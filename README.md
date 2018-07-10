@@ -46,8 +46,8 @@ http://out.gorge.in/
 
 GORGE PUBLIC LICENCE
 
-## Autho
+## Author
 
 GORGE.IN
 
-[tcnksm](https://github.com/tcnksm)
+
