@@ -4,8 +4,7 @@
 # yamanohi.club 2018
 ===
 
-このプロジェクトは、**2018年8月11日**に[新宿ドゥースラー][1]で行われるyamanohi.clubというイベントを紹介するものです。
-[1]:http://duusraa.com/
+このプロジェクトは、**2018年8月11日**に[新宿ドゥースラー](http://duusraa.com/)で行われるyamanohi.clubというイベントを紹介するものです。
 
 ## Description
 
