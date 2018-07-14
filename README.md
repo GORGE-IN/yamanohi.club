@@ -1,13 +1,18 @@
+
+![logo](https://user-images.githubusercontent.com/41063021/42722522-55e8906e-8788-11e8-9b35-30dcc8bba507.jpg)
+
 # yamanohi.club 2018
 ====
 
-このプロジェクトは、2018年8月11日に新宿ドゥースラーで行われるyamanohi.clubというイベントを紹介するものです。
+このプロジェクトは、**2018年8月11日**に新宿ドゥースラーで行われるyamanohi.clubというイベントを紹介するものです。
 
 ## Description
 
 このイベントには、以下の出演者がDJもしくはライブを行います。
 各出演者の時間は30分もしくは45分です。
 
+- MOODMAN
+- 俚謡山脈
 - Ishii Takaakira
 - uccelli
 - クラーク内藤
@@ -15,8 +20,6 @@
 - hanali
 - kampingcar
 - Indus Bonze
-- 俚謡山脈
-- MOODMAN
 
 上記のリストは出演順でソートされていません。
 詳細な順番は、後ほどコミットされます。
@@ -33,14 +36,6 @@ http://out.gorge.in/
 
 参加者に求める特別な依存関係はありません。
 
-## Usage
-
-<TODO>
-
-## Install
-
-
-## Contribution
 
 ## Licence
 
