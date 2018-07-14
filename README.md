@@ -2,9 +2,10 @@
 ![logo](https://user-images.githubusercontent.com/41063021/42722522-55e8906e-8788-11e8-9b35-30dcc8bba507.jpg)
 
 # yamanohi.club 2018
-====
+===
 
-このプロジェクトは、**2018年8月11日**に新宿ドゥースラーで行われるyamanohi.clubというイベントを紹介するものです。
+このプロジェクトは、**2018年8月11日**に[新宿ドゥースラー][1]で行われるyamanohi.clubというイベントを紹介するものです。
+[1]:http://duusraa.com/
 
 ## Description
 
