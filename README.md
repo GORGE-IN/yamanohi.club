@@ -13,7 +13,7 @@
 
 - MOODMAN
 - 俚謡山脈
-- Ishii Takaakira
+- Takaakirah Ishii
 - uccelli
 - クラーク内藤
 - Drastik Adhesive Force
