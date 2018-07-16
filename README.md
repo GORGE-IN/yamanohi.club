@@ -14,7 +14,6 @@
 - MOODMAN
 - 俚謡山脈
 - Ishii Takaakira
-- uccelli
 - クラーク内藤
 - Drastik Adhesive Force
 - hanali
