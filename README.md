@@ -12,7 +12,7 @@
 
 - MOODMAN
 - 俚謡山脈
-- Ishii Takaakira
+- Takaakirah Ishii
 - クラーク内藤
 - Drastik Adhesive Force
 - hanali
@@ -34,6 +34,8 @@ http://out.gorge.in/
 
 参加者に求める特別な依存関係はありません。
 
+## Design
+French Fried Gota
 
 ## Licence
 
