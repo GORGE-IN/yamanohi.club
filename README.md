@@ -1,5 +1,4 @@
-
-![logo](https://user-images.githubusercontent.com/41063021/42722522-55e8906e-8788-11e8-9b35-30dcc8bba507.jpg)
+![yamanohi2018](https://user-images.githubusercontent.com/10110956/42744211-a508fc64-8905-11e8-8cdb-425a7bdc0fff.jpg)
 
 # yamanohi.club 2018
 ===
