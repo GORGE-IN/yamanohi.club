@@ -18,6 +18,7 @@
 - hanali
 - kampingcar
 - Indus Bonze
+- nomuson
 
 上記のリストは出演順でソートされていません。
 詳細な順番は、後ほどコミットされます。
