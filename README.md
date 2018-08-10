@@ -12,7 +12,7 @@
 
 - MOODMAN
 - 俚謡山脈
-- Takaakirah Ishii
+- 石井タカアキラ with 渡邊洋輔（石井タカアキラグループ）
 - クラーク内藤
 - Drastik Adhesive Force
 - hanali
