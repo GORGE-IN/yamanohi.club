@@ -45,6 +45,7 @@ http://out.gorge.in/
 
 Indus Bonzeの最新作『出鱈目』が8月8日にリリースされています。
 http://out.gprge.in/album/detarame
+![a2984013513_10](https://user-images.githubusercontent.com/10110956/43987263-170f8302-9d59-11e8-9a77-90502e86bfcf.jpg)
 
 ## Requirement
 
