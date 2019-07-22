@@ -1,41 +1,32 @@
-![yamanohi2018](https://user-images.githubusercontent.com/10110956/42744211-a508fc64-8905-11e8-8cdb-425a7bdc0fff.jpg)
+![yamanohi2019](https://user-images.githubusercontent.com/10110956/61601148-21354f80-ac6f-11e9-9f53-ea2d0ab2784b.jpg)
 
-# yamanohi.club 2018
+# yamanohi.club 2019
 ===
 
-このプロジェクトは、**2018年8月11日**に[新宿ドゥースラー](http://duusraa.com/)で行われるyamanohi.clubというイベントを紹介するものです。
+このプロジェクトは、**2019年8月11日**に[小倉DJ BAR HIVE](https://djbarhivekokura.tumblr.com/)で行われるyamanohi.clubというイベントを紹介するものです。
+昨年2018年は東京都新宿区のDUUSRAで開催されました。今年は福岡県北九州市小倉北区で開催されます。
+その理由は現在のところ明らかになっていません。
 
 ## Description
 
 このイベントには、以下の出演者がDJもしくはライブを行います。
-各出演者の時間は30分もしくは45分です。
+各出演者の時間は30分から60分の間で任意に決定されます。
 
-- MOODMAN
-- 俚謡山脈
-- 石井タカアキラ with 渡邊洋輔（石井タカアキラグループ）
-- クラーク内藤
-- Drastik Adhesive Force
-- hanali
-- kampingcar
-- Indus Bonze
-- nomuson
+- Drastik Adhesive Force(GORGE.IN / Tokyo)
+- CRZKNY(GOODWEATHER / Hiroshima)
+- Kazuki Koga(GORGE.IN / Kokura)
+- hanali(GORGE.IN / Kokura)
+- TBA
+
+出演者は任意のタイミングで増加する可能性があります。
 
 ## Play Order
-出演順で昇順でソートされた一覧は以下の通りです。
+現在のところ、出演順は決定していません。
 
 | 開始日時(HH:mm) | プレイ分数 | プレイヤー | フォーマット|
 |:---|:---|:---|:---|
-|17:00|	45|nomuson|DJ|
-|17:45|	30|Ishii Takaakira|DJ＋ライブ|
-|18:15|	30|クラーク内藤|ライブ|
-|18:45|	30|Drastik Adhesive Force|ライブ|
-|19:15|	30|hanali|ライブ|
-|19:45|	30|kampingcar|ライブ|
-|20:15|	60|俚謡山脈|DJ|
-|21:15|	45|Indus Bonze|ライブ|
-|22:00|	60|MOODMAN|DJ|
+|||||
 
-時間はプレイ時間などの条件により、変更されることがあります。
 
 
 ## Demo
