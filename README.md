@@ -80,7 +80,8 @@ http://flamebait.bandcamp.com/album/end-gorge-ep
 
 ### yoshikawa.yogi.hiroki
 (Bollywood Gorge / ***from Fukuoka***)
-![yogi](https://user-images.githubusercontent.com/10110956/62436778-ae9e9680-b77b-11e9-9730-d0be64ec9818.jpg)
+![yogi](https://user-images.githubusercontent.com/10110956/62478617-78e2c780-b7e6-11e9-8216-f3bd48c43a4e.jpg)
+
 
 #### Profile
 2009年初渡印、ボリウッド音楽の世界観に魅了される。
