@@ -86,8 +86,11 @@ http://flamebait.bandcamp.com/album/end-gorge-ep
 2009年初渡印、ボリウッド音楽の世界観に魅了される。
 2015年にインド・デリーに拠点を移し、仕事の傍らボリウッド音源蒐集に明け暮れる。
 2017年インドより帰国後、地元福岡にて「インドかぶれ」として日々活動中。
+
 https://soundcloud.com/jiroquino
+
 https://soundcloud.com/jiroquino/namaste-discotheque-mix
+
 https://soundcloud.com/jiroquino/2012-05-16-22h05m54
 
 ## Play Order
