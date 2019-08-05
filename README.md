@@ -72,7 +72,7 @@ instagram : https://www.instagram.com/kazukikoga/
 
 #### Profile
 Toki Takumiによるソロ・ルーツGorge(ゴルジェ)・プロジェクト。また国内唯一のGorge専門レーベル「GORGE.IN」の運営の一人。2000年頃より音楽活動を開始後、しばらくテント泊縦走、沢登り、フリークライミングなど山に関わる活動に軸を移していたが、タムによる呪術的なリズムワークを特徴とするビート&クライミング・ミュージック「Gorge」の思想とダイナミズムに衝撃を受け、2012年頃よりルーツGorgeスタイルでの音楽活動を開始。様々な名義で多数のトラックリリースを行うと共に、ライブハウスやクラブ、野外イベントなどでライブ活動を重ねる。そのダイナミックでトリッキーなタム連打サウンドは、日本に「ゴルい」という価値を浸透させるのに大いに貢献した。
-GORGE.INを始めTerminal Expsotion、UKのFlamebaitなどよりアルバム・EPを数多くリリース。現在ベルギーのレーベルThird Type Tapeよりカセットテープ作品のリリースを予定している。
+GORGE.INを始めTerminal Expsotion、UKのFlamebaitなどよりアルバム・EPを数多くリリース。現在ベルギーのレーベルThird Type Tapeよりカセットテープ作品のリリースを予定している。　
 2015年より活動の拠点をオンラインに移行したため、オフラインでのライブ活動は非常に稀である。
 http://soundcloud.com/hanali
 http://out.gorge.in/
