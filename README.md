@@ -17,7 +17,7 @@
 - CRZKNY(GOODWEATHER / HIROSHIMA SHITLIFE / v.o.c ***from Hiroshima***)
 - Kazuki Koga(GORGE.IN / ***from Kokura***)
 - hanali(GORGE.IN / ***from Kokura***)
-- TBA
+- yoshikawa.yogi.hiroki(Bollywood Gorge / ***from Fukuoka***)
 
 出演者は任意のタイミングで増加する可能性があります。
 
@@ -78,7 +78,11 @@ http://soundcloud.com/hanali
 http://out.gorge.in/
 http://flamebait.bandcamp.com/album/end-gorge-ep
 
+### yoshikawa.yogi.hiroki
+![yogi](https://user-images.githubusercontent.com/10110956/62436778-ae9e9680-b77b-11e9-9730-d0be64ec9818.jpg)
+(Bollywood Gorge / ***from Fukuoka***)
 
+#### Profile
 
 ## Play Order
 現在のところ、出演順は決定していません。
