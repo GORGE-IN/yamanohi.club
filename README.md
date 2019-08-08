@@ -21,6 +21,15 @@
 
 出演者は任意のタイミングで増加する可能性があります。
 
+
+## Play Order
+現在のところ、出演順は決定していません。
+
+| 開始日時(HH:mm) | プレイ分数 | プレイヤー | フォーマット|
+|:---|:---|:---|:---|
+|||||
+
+
 ## Players
 
 出演者の概要を以下に記述します。
@@ -34,7 +43,9 @@
 2004年デビュー以来、BPM60を中心に唯一無二のダンスミュージックを提示し続ける開拓者。「地獄のような」とも評されるその脳神経と内臓に快り込む低速重厚ビートは、聴いたものに驚きと吐き気、そして陶酔を同時にもたらし、続々と中毒者を産み出し続けている。
 2015年には自身のスタイルをSLABと命名しフルアルバム「SLAB」をリリース。
 ソロ活動のほか、ハーシュノイズアーティスト黒電話666とのユニットtesco suicideを結成し、miclodiet主催のSLUDGE-TAPESよりカセットをリリースしている。
+
 HP：http://drastikadhesiveforce.tumblr.com/
+
 SLAB：http://slab.pw/
 
 ### CRZKNY
@@ -44,9 +55,13 @@ SLAB：http://slab.pw/
 
 #### Profile
 現時点までの楽曲総数は900曲以上、200を超える作品を国内外にてリリース。2017年リリースの三枚組アルバム『MERIDIAN』はボアダムズEYƎ、曽我部恵一など名だたるアーティストたちに絶賛され電子音楽界の新たな名盤となった。前述の曽我部恵一は2017年ベストアルバムに挙げており、2015年よりサニーデイ・サービス作品に三作連続で参加。2018年にはGABBERをテーマにした超重量アルバム『GVVVV』を、また同年7月に西日本豪雨災害ドネーションアルバム『SPIT THE ALBUM』を緊急リリース、8月にはサニーデイ・サービス『FUCK YOU 音頭』の公式ブートレグリミックスを12インチで発売した。また D.J.Fulltono、Skip Club Orchestra、Megumu Yamamotoと共に12ヶ月連続リリースプロジェクト「DRAPING」にて作品をリリース(19年7月完結)。DJ ANACONDA名義にて19年1月にリリースしたアルバム『ANACONDA TRAX vol.1』にてゲットーハウス最新系も披露。最新作はライブ会場限定販売のDark Footwork Techno作品集『CURSE EP』。Yung Hamster名義で特殊ノイズ歌謡DJとしても活動中。
+
 https://www.crzkny.org/meridian
+
 https://www.goodweather.org/
+
 https://goodweathersounds.bandcamp.com/
+
 https://draping.bandcamp.com/
 
 ### Kazuki Koga
@@ -61,8 +76,11 @@ Kazuki Kogaは福岡県出身の実験的電子音楽家。2015年よりカナ�
 インド/ネパール発祥の山岳電子音楽GORGE。ロッククライミング・登山の電子音楽的解釈として説明されることが多いが、実際は深い霧に包まれているかの如く様々な暗号や伝説により曖昧に定義されている。その目的はロッククライミングの美的、精神的、超自然的な昇華を伝え、神々の山巓へとつながるルートを開拓することである。
 
 soundcloud : https://soundcloud.com/kazuki_koga
+
 bandcamp : https://kazukikoga.bandcamp.com/
+
 twitter : https://twitter.com/KazukiKoga
+
 instagram : https://www.instagram.com/kazukikoga/
 
 ### hanali
@@ -74,8 +92,11 @@ instagram : https://www.instagram.com/kazukikoga/
 Toki Takumiによるソロ・ルーツGorge(ゴルジェ)・プロジェクト。また国内唯一のGorge専門レーベル「GORGE.IN」の運営の一人。2000年頃より音楽活動を開始後、しばらくテント泊縦走、沢登り、フリークライミングなど山に関わる活動に軸を移していたが、タムによる呪術的なリズムワークを特徴とするビート&クライミング・ミュージック「Gorge」の思想とダイナミズムに衝撃を受け、2012年頃よりルーツGorgeスタイルでの音楽活動を開始。様々な名義で多数のトラックリリースを行うと共に、ライブハウスやクラブ、野外イベントなどでライブ活動を重ねる。そのダイナミックでトリッキーなタム連打サウンドは、日本に「ゴルい」という価値を浸透させるのに大いに貢献した。
 GORGE.INを始めTerminal Expsotion、UKのFlamebaitなどよりアルバム・EPを数多くリリース。現在ベルギーのレーベルThird Type Tapeよりカセットテープ作品のリリースを予定している。　
 2015年より活動の拠点をオンラインに移行したため、オフラインでのライブ活動は非常に稀である。
+
 http://soundcloud.com/hanali
+
 http://out.gorge.in/
+
 http://flamebait.bandcamp.com/album/end-gorge-ep
 
 ### yoshikawa.yogi.hiroki
@@ -93,14 +114,6 @@ https://soundcloud.com/jiroquino
 https://soundcloud.com/jiroquino/namaste-discotheque-mix
 
 https://soundcloud.com/jiroquino/2012-05-16-22h05m54
-
-## Play Order
-現在のところ、出演順は決定していません。
-
-| 開始日時(HH:mm) | プレイ分数 | プレイヤー | フォーマット|
-|:---|:---|:---|:---|
-|||||
-
 
 
 ## Demo
