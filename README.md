@@ -27,7 +27,12 @@
 
 | 開始日時(HH:mm) | プレイ分数 | プレイヤー | フォーマット|
 |:---|:---|:---|:---|
-|||||
+|20:00|45|yoshikawa.yogi.hiroki|DJ|
+|20:45|45|Kazuki Koga|Live|
+|21:30|45|hanali|Live|
+|22:15|15|yoshikawa.yogi.hiroki|DJ|
+|22:30|45|CRZKNY|Live|
+|23:15|45|Drastik Adhesive Force|Live|
 
 
 ## Players
