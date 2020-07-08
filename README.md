@@ -1,5 +1,4 @@
-![yamanohi.club 2020](https://user-images.githubusercontent.com/10110956/86806528-eb71bc80-c0b3-11ea-9c60-87c6b2406f78.png)
-
+![GORGE 2020](https://user-images.githubusercontent.com/10110956/86889251-6aa7d480-c136-11ea-9467-d55d14f797c6.png)
 
 
 # yamanohi.club 2020
