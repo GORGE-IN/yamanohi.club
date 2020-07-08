@@ -28,7 +28,7 @@ and more….
 - Indus Bonze ( from Hokkaido)　
 - Tea-chi (from Okinawa)
 - Drastik Adhesive Force (from Tokyo)
-- DJ ひょっとこ (from somewhere)
+- 三代目DJひょっとこ (from somewhere)
 and more...
 
 
