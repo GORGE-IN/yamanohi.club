@@ -29,7 +29,6 @@ and more….
 - Indus Bonze ( from Hokkaido)　
 - Tea-chi (from Okinawa)
 - Drastik Adhesive Force (from Tokyo)
-- Takaakira Ishii (from Tokyo)
 and more...
 
 
