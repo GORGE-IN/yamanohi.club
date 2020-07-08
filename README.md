@@ -48,6 +48,8 @@ http://out.gorge.in/
 
 参加者に求める特別な依存関係はありません。
 
+
+
 ## Licence
 
 GORGE PUBLIC LICENCE
@@ -55,5 +57,11 @@ GORGE PUBLIC LICENCE
 ## Author
 
 GORGE.IN
+
+## 新型コロナウィルス対策について
+新型コロナウィルス予防を実施しております。Kieth Flackにご来場の方は、下の画像をご一読いただき、ご理解およびご協力をよろしくお願い申し上げます。
+
+![106901651_288866749028413_9095140880427039341_n](https://user-images.githubusercontent.com/10110956/86925222-88dbf780-c16b-11ea-9560-4fbde12b5c67.jpg)
+
 
 
