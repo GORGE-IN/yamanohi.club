@@ -1,5 +1,4 @@
-![GORGE 2020](https://user-images.githubusercontent.com/10110956/86889251-6aa7d480-c136-11ea-9467-d55d14f797c6.png)
-
+![GORGE 2020](https://user-images.githubusercontent.com/10110956/86924141-04d54000-c16a-11ea-93e1-afbc7403770c.png)
 
 # yamanohi.club 2020
 ===
@@ -18,7 +17,7 @@
 各出演者の時間は30分から60分の間で任意に決定されます。
 
 ■Keith Flack Stage
-- Koga Kazuki
+- Kazuki Koga
 - hanali
 - yogi
 - スポーツガーデンひ
@@ -29,6 +28,7 @@ and more….
 - Indus Bonze ( from Hokkaido)　
 - Tea-chi (from Okinawa)
 - Drastik Adhesive Force (from Tokyo)
+- DJ ひょっとこ (from somewhere)
 and more...
 
 
