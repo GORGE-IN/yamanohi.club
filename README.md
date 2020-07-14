@@ -11,6 +11,8 @@
 
 より広範囲な時間と空間を対象とした祭典および儀式となります。
 
+## Logo
+
 ## Description
 
 このイベントには、以下の出演者がDJもしくはライブを行います。
@@ -57,6 +59,9 @@ GORGE PUBLIC LICENCE
 ## Author
 
 GORGE.IN
+
+## Flyer & Logo Design
+Daisuke Hizume
 
 ## 新型コロナウィルス対策について
 新型コロナウィルス予防を実施しております。Kieth Flackにご来場の方は、下の画像をご一読いただき、ご理解およびご協力をよろしくお願い申し上げます。
