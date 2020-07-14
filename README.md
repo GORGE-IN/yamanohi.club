@@ -1,4 +1,4 @@
-![GORGE 2020](https://user-images.githubusercontent.com/10110956/86924141-04d54000-c16a-11ea-93e1-afbc7403770c.png)
+![yamanohi2020_mainimg](https://user-images.githubusercontent.com/10110956/87443954-21bdb780-c631-11ea-9f08-335b0e245fb5.png)
 
 # yamanohi.club 2020
 ===
@@ -21,6 +21,7 @@
 - hanali
 - yogi
 - スポーツガーデンひ
+- 三代目DJひょっとこ
 and more….
 
 ■Streaming Stage
@@ -28,7 +29,6 @@ and more….
 - Indus Bonze ( from Hokkaido)　
 - Tea-chi (from Okinawa)
 - Drastik Adhesive Force (from Tokyo)
-- 三代目DJひょっとこ (from somewhere)
 and more...
 
 
