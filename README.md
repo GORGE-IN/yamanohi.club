@@ -27,7 +27,7 @@ and more….
 ■Streaming Stage
 - GQOMZILLA (DJ MORO＆KΣITO  from Tokyo)
 - Indus Bonze ( from Hokkaido)　
-- Tea-chi (from Okinawa)
+- TEACHI (from Okinawa)
 - Drastik Adhesive Force (from Tokyo)
 and more...
 
