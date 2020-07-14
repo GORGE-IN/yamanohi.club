@@ -12,6 +12,8 @@
 より広範囲な時間と空間を対象とした祭典および儀式となります。
 
 ## Logo
+![山の日ロゴ](https://user-images.githubusercontent.com/10110956/87446555-6565f080-c634-11ea-9f32-50979be92368.png)
+
 
 ## Description
 
