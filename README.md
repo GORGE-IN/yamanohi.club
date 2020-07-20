@@ -1,9 +1,9 @@
-![yamanohi2020_mainimg](https://user-images.githubusercontent.com/10110956/87443954-21bdb780-c631-11ea-9f08-335b0e245fb5.png)
+![yamanohi2020_mainimg](https://user-images.githubusercontent.com/41063021/87947460-52449c00-cade-11ea-8de4-55229f19cef2.png)
 
 # yamanohi.club 2020
 ===
 
-このプロジェクトは、**2020年8月10日**に[福岡Keith Flack](https://kiethflack.net/)およびストリーミング配信で開催されるyamanohi.clubというイベントを紹介するものです。
+このプロジェクトは、**2020年8月10日**に[福岡Kieth Flack](https://kiethflack.net/)およびストリーミング配信で開催されるyamanohi.clubというイベントを紹介するものです。
 
 このイベントは、山の日が制定された古代から受け継がれるトラディショナルな祭典および儀式です。
 
@@ -20,7 +20,7 @@
 このイベントには、以下の出演者がDJもしくはライブを行います。
 各出演者の時間は30分から60分の間で任意に決定されます。
 
-■Keith Flack Stage
+■Kieth Flack Stage
 - Kazuki Koga
 - hanali
 - yogi
