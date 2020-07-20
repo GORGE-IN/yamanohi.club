@@ -14,6 +14,10 @@
 ## Logo
 ![山の日ロゴ](https://user-images.githubusercontent.com/10110956/87446555-6565f080-c634-11ea-9f32-50979be92368.png)
 
+## Place
+[福岡Kieth Flack](https://kiethflack.net/) \1,500 + 1 Drink
+×
+[Streaming on Twich](https://www.twitch.tv/bijonob/)
 
 ## Description
 
