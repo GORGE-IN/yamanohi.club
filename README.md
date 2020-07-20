@@ -16,7 +16,9 @@
 
 ## Place
 [福岡Kieth Flack](https://kiethflack.net/) \1,500 + 1 Drink
+
 ×
+
 [Streaming on Twich](https://www.twitch.tv/bijonob/)
 
 ## Description
