@@ -1,4 +1,4 @@
-![yamanohi2020_mainimg](https://user-images.githubusercontent.com/41063021/87947460-52449c00-cade-11ea-8de4-55229f19cef2.png)
+![yamanohi2020_0731](https://user-images.githubusercontent.com/41063021/88942191-e7a51480-d2c4-11ea-8cca-e022f9043449.jpg)
 
 # yamanohi.club 2020
 ===
@@ -32,14 +32,18 @@
 - yogi
 - スポーツガーデンひ
 - 三代目DJひょっとこ
-and more….
 
 ■Streaming Stage
 - GQOMZILLA (DJ MORO＆KΣITO  from Tokyo)
 - Indus Bonze ( from Hokkaido)　
 - TEACHI (from Okinawa)
 - Drastik Adhesive Force (from Tokyo)
-and more...
+
+■VJ
+- netDragon
+
+■Streaming Direction
+- AttoNN(BijonoB)
 
 
 出演者は任意のタイミングで増加する可能性があります。
