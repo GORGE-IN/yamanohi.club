@@ -43,7 +43,7 @@
 - netDragon
 
 ■Streaming Direction
-- √√
+- AtoNN(BijonoB)
 
 
 出演者は任意のタイミングで増加する可能性があります。
@@ -78,7 +78,7 @@ Daisuke Hizume
 ## 新型コロナウィルス対策について
 新型コロナウィルス予防を実施しております。Kieth Flackにご来場の方は、下の画像をご一読いただき、ご理解およびご協力をよろしくお願い申し上げます。
 
-![106901651_288866749028413_9095140880427039341_n](https://user-images.githubusercontent.com/10110956/86925222-88dbf780-c16b-11ea-9560-4fbde12b5c67.jpg)
+![116428537_960562474411938_662111142733324946_n](https://user-images.githubusercontent.com/10110956/89044569-15ea2900-d385-11ea-99ce-01eeba99d9ea.jpg)
 
 
 
