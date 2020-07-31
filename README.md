@@ -1,4 +1,4 @@
-![yamanohi2020_0731](https://user-images.githubusercontent.com/41063021/88942191-e7a51480-d2c4-11ea-8cca-e022f9043449.jpg)
+![yamanohi2020_0731](https://user-images.githubusercontent.com/41063021/89045148-fef80680-d385-11ea-8c85-858fbb739861.jpg)
 
 # yamanohi.club 2020
 ===
