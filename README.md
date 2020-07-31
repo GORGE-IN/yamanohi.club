@@ -43,7 +43,7 @@
 - netDragon
 
 ■Streaming Direction
-- AttoNN(BijonoB)
+- √√
 
 
 出演者は任意のタイミングで増加する可能性があります。
