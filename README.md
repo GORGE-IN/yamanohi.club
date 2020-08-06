@@ -53,13 +53,21 @@
 以下の順序で実施される予定です。
 
 17:00～17:20	基調講演「ゴルジェはゴルジェであるか？」 by hanali
-17:20～17:45    トークセッション「ゴルジェは偏在する」 by hanali & Kazuki Koga & yogi
+
+17:20～17:45 トークセッション「ゴルジェは偏在する」 by hanali & Kazuki Koga & yogi
+
 17:45～18:30	[KEITH FLACK STAGE] yogi	
+
 18:30～19:00	[STREAMING STAGE]	Drastik Adhesive Force
+
 19:00～19:30	[KEITH FLACK STAGE] 三代目DJひょっとこ	
+
 19:30～20:00	[STREAMING STAGE]	TEACHI
+
 20:00～20:30 [KEITH FLACK STAGE]	Kazuki Koga	
+
 20:30～21:00 [STREAMING STAGE]	Indus Bonze
+
 21:00～21:30	[KEITH FLACK STAGE] hanali	
 21:30～22:00	[STREAMING STAGE]	GQOMZILLA
 
