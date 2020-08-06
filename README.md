@@ -30,8 +30,7 @@
 - Kazuki Koga
 - hanali
 - yogi
-- スポーツガーデンひ
-- 三代目DJひょっとこ
+- 三代目DJひょっとこ (from everywhere)
 
 ■Streaming Stage
 - GQOMZILLA (DJ MORO＆KΣITO  from Tokyo)
