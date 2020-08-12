@@ -15,6 +15,7 @@ https://www.paypal.com/paypalme/gorgein
 今後の運営の助けになります。ぜひご協力ください。
 
 ## [アンケート] ぜひ参加した方はアンケートにお答えください！
+![image](https://user-images.githubusercontent.com/10110956/89983247-25853e00-dcb2-11ea-9a99-4b611568b552.png)
 https://forms.gle/q1R549W8X5VDSi9E8
 
 回答いただいた方には、特典があるかも？
