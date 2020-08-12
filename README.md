@@ -1,4 +1,6 @@
 # yamanohi.club 2020は終了しました！
+こんなイベントでした。
+![yamanohi_2020](https://user-images.githubusercontent.com/10110956/89981893-b0186e00-dcaf-11ea-912b-76b323f4ff79.jpg)
 
 
 
