@@ -1,3 +1,19 @@
+# yamanohi.club 2020は終了しました！
+
+
+
+## イベント全編を体験できるアーカイブは8/24(月）まで公開しています！
+https://www.twitch.tv/bijonob
+その後、ダイジェスト版映像が公開される予定です。
+
+## ドネーションはまだ可能です！
+https://www.paypal.com/paypalme/gorgein
+今後の運営の助けになります。ぜひご協力ください。
+
+## [アンケート] ぜひ参加した方はアンケートにお答えください！
+https://forms.gle/q1R549W8X5VDSi9E8
+
+
 ![yamanohi2020_0731](https://user-images.githubusercontent.com/41063021/89045148-fef80680-d385-11ea-8c85-858fbb739861.jpg)
 
 # yamanohi.club 2020
