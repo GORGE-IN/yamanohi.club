@@ -20,6 +20,17 @@ https://forms.gle/q1R549W8X5VDSi9E8
 
 回答いただいた方には、特典があるかも？
 
+
+
+
+
+
+
+
+
+
+<以下はイベント告知のアーカイブです>
+
 ![yamanohi2020_0731](https://user-images.githubusercontent.com/41063021/89045148-fef80680-d385-11ea-8c85-858fbb739861.jpg)
 
 # yamanohi.club 2020
