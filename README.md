@@ -16,6 +16,7 @@ DAY1については現在未定であるため、DAY2について以下に記し
 
 ## Place
 [福岡Kieth Flack](https://kiethflack.net/) \2,500 + 1 Drink
+
 19:00-25:00
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/21aa22da-e707-4619-84fb-a05d64a3be1d)" width="100">
