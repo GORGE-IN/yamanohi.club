@@ -23,6 +23,7 @@
 
 ## Place
 [福岡Kieth Flack](https://kiethflack.net/) \2,500 + 1 Drink
+19:00-25:00
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/21aa22da-e707-4619-84fb-a05d64a3be1d)" width="100">
 
@@ -32,60 +33,35 @@
 このイベントには、以下の出演者がDJもしくはライブを行います。
 各出演者の時間は30分から60分の間で任意に決定されます。
 
-■Kieth Flack Stage
+参加者および出演者は、「I hear a new mountain」のテーマに従って、「新しい山」の音を表現することが求められています。
+ただし、その解釈は自由に任せられています。Enjoy your Gorge!
+
+### Live
 - Indus Bonze (from Hokkaido)　
-- 俚謡山脈 (from Hokkaido)　
-- DJ ひょっとこ (from Everywhere)
 - Drastik Adhesive Force (from Tokyo)
-- URIU + 山響屋 (from あら酔っと)
+- Kazuki Koga
 - hanali
+
+### DJ
+- 俚謡山脈 (from Hokkaido)　
+- DJ ひょっとこ (from Everywhere
+- URIU + 山響屋 (from あら酔っと)
+- kiimao tong(from ソムタム)
+- SMZY
 - yogi
-
-■VJ
-- netDragon
-
-■Streaming Direction
-- AtoNN(BijonoB)
 
 
 出演者は任意のタイミングで増加する可能性があります。
 
-## 出演者紹介
-今回のイベントに至るまでのコンテキスト、および全出演者の紹介は以下のGORGE.INの記事により把握することができます。
-http://gorge.in/2020/08/yamanohi2020/
-
-
 ## Play Order
-以下の順序で実施される予定です。
-
-17:00～17:20	基調講演「ゴルジェはゴルジェであるか？」 by hanali
-
-17:20～17:45 トークセッション「ゴルジェは偏在する」 by hanali & Kazuki Koga & yogi
-
-17:45～18:30	[KIETH FLACK STAGE] yogi	
-
-18:30～19:00	[STREAMING STAGE]	Drastik Adhesive Force
-
-19:00～19:30	[KIETH FLACK STAGE] 三代目DJひょっとこ	
-
-19:30～20:00	[STREAMING STAGE]	TEACHI
-
-20:00～20:30 [KIETH FLACK STAGE]	Kazuki Koga	
-
-20:30～21:00 [STREAMING STAGE]	Indus Bonze
-
-21:00～21:30	[KIETH FLACK STAGE] hanali	
-
-21:30～22:00	[STREAMING STAGE]	GQOMZILLA
+現状のところ、出演順はまだ決定していません。
 
 ## Demo
 
 一部の出演者の音源は、以下のサイトで試聴することができます。
 http://out.gorge.in/
 
-## Requirement
 
-参加者に求める特別な依存関係はありません。
 
 
 
