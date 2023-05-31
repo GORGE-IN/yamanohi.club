@@ -43,7 +43,7 @@
 - hanali
 
 ### DJ
-- 俚謡山脈 (from Hokkaido)　
+- 俚謡山脈 (from Tokyo)　
 - DJ ひょっとこ (from Everywhere
 - URIU + 山響屋 (from あら酔っと)
 - kiimao tong(from ソムタム)
@@ -55,6 +55,9 @@
 
 ## Players
 ### Indus Bonze (from Hokkaido)　
+
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/073b9e70-6667-470e-8a10-a58f24ce3c33" width="300px">
+
 ### Drastik Adhesive Force (from Tokyo)
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/ee33a078-6a1d-42df-8f86-688bc00ae109" width="300px">
@@ -74,8 +77,11 @@ SLAB：http://slab.pw/
 
 
 ### Kazuki Koga
+
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/b321cd01-7579-44e2-bc66-7c524db75c9c" width="300px">
+
 ### hanali
-### 俚謡山脈 (from Hokkaido)　
+### 俚謡山脈 (from Tokyo)　
 ### DJ ひょっとこ (from Everywhere)
 ![image](https://github.com/GORGE-IN/yamanohi.club/assets/10110956/7d293fdc-9a14-4349-8918-7c9bcda39b56)
 
