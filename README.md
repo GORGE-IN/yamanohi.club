@@ -8,6 +8,8 @@
 
 
 # 8月11日（金) yamanohi.club 2023 「GORU-GORU FRIDAYS CLUB」
+## Place
+[渋谷OTO](https://shibuya-oto.com/) 
 
 
 # 8月12日（土) yamanohi.club 2023 「I Hear a new Mountain」
@@ -16,7 +18,7 @@
 ## Place
 [福岡Kieth Flack](https://kiethflack.net/) \1,500 + 1 Drink
 
-![Kieth Flackロゴ](https://github.com/GORGE-IN/yamanohi.club/assets/10110956/21aa22da-e707-4619-84fb-a05d64a3be1d)
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/21aa22da-e707-4619-84fb-a05d64a3be1d)" width="100">
 
 
 ## Description
@@ -25,16 +27,12 @@
 各出演者の時間は30分から60分の間で任意に決定されます。
 
 ■Kieth Flack Stage
+- Indus Bonze (from Hokkaido)　
+- Drastik Adhesive Force (from Tokyo)
+- DJ ひょっとこ (from Everywhere)
 - Kazuki Koga
 - hanali
 - yogi
-- 三代目DJひょっとこ (from everywhere)
-
-■Streaming Stage
-- GQOMZILLA (DJ MORO＆KΣITO  from Tokyo)
-- Indus Bonze ( from Hokkaido)　
-- TEACHI (from Okinawa)
-- Drastik Adhesive Force (from Tokyo)
 
 ■VJ
 - netDragon
