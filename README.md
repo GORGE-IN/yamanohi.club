@@ -33,22 +33,20 @@
 このイベントには、以下の出演者がDJもしくはライブを行います。
 各出演者の時間は30分から60分の間で任意に決定されます。
 
-参加者および出演者は、「I hear a new mountain」のテーマに従って、「新しい山」の音を表現することが求められています。
+出演者は、「I hear a new mountain」のテーマに従って、「新しい山」の音を表現することが求められています。
 ただし、その解釈は自由に任せられています。Enjoy your Gorge!
 
-### Live
-- Indus Bonze (from Hokkaido)　
-- Drastik Adhesive Force (from Tokyo)
-- Kazuki Koga
-- hanali
-
-### DJ
-- 俚謡山脈 (from Tokyo)　
-- DJ ひょっとこ (from Everywhere
-- URIU + 山響屋 (from あら酔っと)
-- kiimao tong(from ソムタム)
-- SMZY
-- yogi
+### Live & DJ
+- 俚謡山脈 (from Tokyo)　 - DJ
+- Indus Bonze (from Hokkaido) - Live　
+- Drastik Adhesive Force (from Tokyo) - Live
+- 三代目DJひょっとこ (from Everywhere) - DJ
+- URIU + 山響屋 (from あら酔っと) - DJ
+- kiimao tong(from ソムタム) - DJ
+- SMZY - DJ
+- Kazuki Koga - Live
+- hanali - Live
+- yogi - DJ
 
 
 出演者は任意のタイミングで増加する可能性があります。
@@ -81,7 +79,53 @@ SLAB：http://slab.pw/
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/b321cd01-7579-44e2-bc66-7c524db75c9c" width="300px">
 
 ### hanali
+
 ### 俚謡山脈 (from Tokyo)　
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/bbec1d28-fc9c-44fc-b510-a8fd433d5d22" width="500px">
+
+（ムード山+TAKUMI SAITO）
+
+世界各国の音楽がプレイされるDJ パーティ「Soi48」内で活動する日本民謡を愛する2人組DJユニット。日本各地の民謡を収集/リサーチし、DJプレイしたりCDやレコードの再発を手掛けたりしています。
+
+
+MIXシリーズ「俚謡山脈 MIX VOL.1」～「VOL.5」
+
+■CD/レコード監修
+
+「田中重雄宮司/弓神楽」
+
+「境石投げ踊り保存会/境石投げ踊り」
+
+「木崎音頭保存会/クラーク内藤/木崎音頭」
+
+「葛西おしゃらく保存会、他/おしゃらく」
+
+ロンドンのインターネットラジオNTS LIVEに日本民謡だけで構成されたMIXを提供
+
+農民ダイナマイト（山梨県）、大和町八幡神社大盆踊り会（東京）など各地のパーティーにDJで参加
+
+NHKラジオ第一放送「らじるラボ」出演
+
+NHK仙台放送局　「民謡をどうぞ」出演
+
+TBSラジオ　「アフター6ジャンクション」出演
+
+BOIDマガジン連載「俚謡山脈の民謡を訪ねて」
+
+NHK FM「民謡を訪ねてMIXED BY DJ俚謡山脈」パーソナリティ
+
+■Facebook
+
+www.facebook.com/riyomountains
+
+■Twitter
+
+@riyomountains
+
+■E-Mail
+
+riyomountains@gmail.com
+
 ### DJ ひょっとこ (from Everywhere)
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/7d293fdc-9a14-4349-8918-7c9bcda39b56" width="500px">
@@ -118,9 +162,14 @@ https://youtu.be/vcJfw7L574U
 https://instagram.com/uriu?igshid=NTc4MTIwNjQ2YQ==
 
 ### kiimao tong(from ソムタム)
+To be updated.
+
 ### SMZY
+To be updated.
+
 ### yogi
-![456449066115401083](https://github.com/GORGE-IN/yamanohi.club/assets/10110956/3a8bf3ec-4d5c-4dbf-a72c-0f069fc3c633)
+
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/3a8bf3ec-4d5c-4dbf-a72c-0f069fc3c633" width="300px">
 
 ## Play Order
 現状のところ、出演順はまだ決定していません。
