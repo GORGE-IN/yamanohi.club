@@ -1,5 +1,4 @@
-![山の日ロゴ](https://user-images.githubusercontent.com/10110956/87446555-6565f080-c634-11ea-9f32-50979be92368.png)
-
+<img src="https://user-images.githubusercontent.com/10110956/87446555-6565f080-c634-11ea-9f32-50979be92368.png" width="800">
 
 # yamanohi.club 2023
 
