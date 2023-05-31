@@ -5,17 +5,24 @@
 このプロジェクトは、**2023年8月11日(金)〜12日(土)** に行われるyamanohi.clubというジャンル「ゴルジェ」に関するイベントを紹介するものです。
 このイベントは、祝祭となる日「山の日」が制定された遥か昔より受け継がれるトラディショナルな祭典または儀式となります。
 
+2023年は以下の日程で行われます。それぞれ以下に詳細を記述します。
+- 8月11日（金) yamanohi.club 2023 「GORU-GORU FRIDAYS CLUB」
+- 8月12日（土) yamanohi.club 2023 「I Hear a new Mountain」
+
 
 # 8月11日（金) yamanohi.club 2023 「GORU-GORU FRIDAYS CLUB」
 ## Place
 [渋谷OTO](https://shibuya-oto.com/) 
+
+## Detail
+現状のところ、詳細は未定です。後ほど公開されます。
 
 
 # 8月12日（土) yamanohi.club 2023 「I Hear a new Mountain」
 
 
 ## Place
-[福岡Kieth Flack](https://kiethflack.net/) \1,500 + 1 Drink
+[福岡Kieth Flack](https://kiethflack.net/) \2,500 + 1 Drink
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/21aa22da-e707-4619-84fb-a05d64a3be1d)" width="100">
 
@@ -27,9 +34,10 @@
 
 ■Kieth Flack Stage
 - Indus Bonze (from Hokkaido)　
-- Drastik Adhesive Force (from Tokyo)
+- 俚謡山脈 (from Hokkaido)　
 - DJ ひょっとこ (from Everywhere)
-- Kazuki Koga
+- Drastik Adhesive Force (from Tokyo)
+- URIU + 山響屋 (from あら酔っと)
 - hanali
 - yogi
 
