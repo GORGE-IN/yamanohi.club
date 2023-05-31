@@ -11,7 +11,7 @@
 
 DAY1については現在未定であるため、DAY2について以下に記します。
 
-# 8月12日（土) 福岡・博多Kieth Flack yamanohi.club 2023 「I Hear a new Mountain」
+# 8月12日（土) 福岡・博多Kieth Flack yamanohi.club 2023 「I hear a new mountain」
 
 
 ## Place
