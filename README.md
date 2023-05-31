@@ -52,33 +52,6 @@
 出演者は任意のタイミングで増加する可能性があります。
 
 ## Players
-### Indus Bonze (from Hokkaido)　
-
-<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/073b9e70-6667-470e-8a10-a58f24ce3c33" width="300px">
-
-### Drastik Adhesive Force (from Tokyo)
-
-<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/ee33a078-6a1d-42df-8f86-688bc00ae109" width="300px">
-
-
-低速ダンスミュージック”SLAB”専門レーベルSLAB主催 / GORGE.IN所属
-
-2004年デビュー以来、BPM60を中心に唯一無二のダンスミュージックを提示し続ける開拓者。「地獄のような」とも評されるその脳神経と内臓に快り込む低速重厚ビートは、聴いたものに驚きと吐き気、そして陶酔を同時にもたらし、続々と中毒者を産み出し続けている。
-
-2015年には自身のスタイルをSLABと命名しフルアルバム「SLAB」をリリース。
-
-ソロ活動のほか、ハーシュノイズアーティスト黒電話666とのユニットtesco suicideを結成し、miclodiet主催のSLUDGE-TAPESよりカセットをリリースしている。
-
-HP：http://drastikadhesiveforce.tumblr.com/
-
-SLAB：http://slab.pw/
-
-
-### Kazuki Koga
-
-<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/b321cd01-7579-44e2-bc66-7c524db75c9c" width="300px">
-
-### hanali
 
 ### 俚謡山脈 (from Tokyo)　
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/bbec1d28-fc9c-44fc-b510-a8fd433d5d22" width="500px">
@@ -126,7 +99,30 @@ www.facebook.com/riyomountains
 
 riyomountains@gmail.com
 
-### DJ ひょっとこ (from Everywhere)
+### Indus Bonze (from Hokkaido)　
+
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/073b9e70-6667-470e-8a10-a58f24ce3c33" width="300px">
+
+### Drastik Adhesive Force (from Tokyo)
+
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/ee33a078-6a1d-42df-8f86-688bc00ae109" width="300px">
+
+
+低速ダンスミュージック”SLAB”専門レーベルSLAB主催 / GORGE.IN所属
+
+2004年デビュー以来、BPM60を中心に唯一無二のダンスミュージックを提示し続ける開拓者。「地獄のような」とも評されるその脳神経と内臓に快り込む低速重厚ビートは、聴いたものに驚きと吐き気、そして陶酔を同時にもたらし、続々と中毒者を産み出し続けている。
+
+2015年には自身のスタイルをSLABと命名しフルアルバム「SLAB」をリリース。
+
+ソロ活動のほか、ハーシュノイズアーティスト黒電話666とのユニットtesco suicideを結成し、miclodiet主催のSLUDGE-TAPESよりカセットをリリースしている。
+
+HP：http://drastikadhesiveforce.tumblr.com/
+
+SLAB：http://slab.pw/
+
+
+
+### 三代目DJひょっとこ (from Everywhere)
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/7d293fdc-9a14-4349-8918-7c9bcda39b56" width="500px">
 
@@ -166,6 +162,17 @@ To be updated.
 
 ### SMZY
 To be updated.
+
+### Kazuki Koga
+
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/b321cd01-7579-44e2-bc66-7c524db75c9c" width="300px">
+
+### hanali
+
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/96de5f70-93aa-4b1b-ae57-925ed77ffe43" width="500px">
+
+https://soundcloud.com/hanali
+https://out.gorge.in/album/monolithic-v10-ep
 
 ### yogi
 
