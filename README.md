@@ -5,20 +5,13 @@
 このプロジェクトは、**2023年8月11日(金)〜12日(土)** に行われるyamanohi.clubというジャンル「ゴルジェ」に関するイベントを紹介するものです。
 このイベントは、祝祭となる日「山の日」が制定された遥か昔より受け継がれるトラディショナルな祭典または儀式となります。
 
-2023年は以下の日程で行われます。それぞれ以下に詳細を記述します。
-- 8月11日（金) yamanohi.club 2023 「GORU-GORU FRIDAYS CLUB」
-- 8月12日（土) yamanohi.club 2023 「I Hear a new Mountain」
+2023年は以下の日程で2日間に渡り行われます。それぞれ以下に詳細を記述します。
+- DAY1: 8月11日（金) 東京・渋谷OTO yamanohi.club 2023 「GORU-GORU FRIDAYS CLUB」
+- DAY2: 8月12日（土) 福岡・博多Kieth Flack yamanohi.club 2023 「I Hear a new Mountain」
 
+DAY1については現在未定であるため、DAY2について以下に記します。
 
-# 8月11日（金) yamanohi.club 2023 「GORU-GORU FRIDAYS CLUB」
-## Place
-[渋谷OTO](https://shibuya-oto.com/) 
-
-## Detail
-現状のところ、詳細は未定です。後ほど公開されます。
-
-
-# 8月12日（土) yamanohi.club 2023 「I Hear a new Mountain」
+# 8月12日（土) 福岡・博多Kieth Flack yamanohi.club 2023 「I Hear a new Mountain」
 
 
 ## Place
