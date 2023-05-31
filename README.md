@@ -7,12 +7,17 @@
 このイベントは、祝祭となる日「山の日」が制定された遥か昔より受け継がれるトラディショナルな祭典または儀式となります。
 
 
+# 8月11日（金) yamanohi.club 2023 「GORU-GORU FRIDAYS CLUB」
+
+
+# 8月12日（土) yamanohi.club 2023 「I Hear a new Mountain」
+
+
 ## Place
 [福岡Kieth Flack](https://kiethflack.net/) \1,500 + 1 Drink
 
-×
+![Kieth Flackロゴ](https://github.com/GORGE-IN/yamanohi.club/assets/10110956/21aa22da-e707-4619-84fb-a05d64a3be1d)
 
-[Streaming on Twich](https://www.twitch.tv/bijonob/)
 
 ## Description
 
