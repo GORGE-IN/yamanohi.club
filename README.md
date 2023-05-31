@@ -83,7 +83,8 @@ SLAB：http://slab.pw/
 ### hanali
 ### 俚謡山脈 (from Tokyo)　
 ### DJ ひょっとこ (from Everywhere)
-![image](https://github.com/GORGE-IN/yamanohi.club/assets/10110956/7d293fdc-9a14-4349-8918-7c9bcda39b56)
+
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/7d293fdc-9a14-4349-8918-7c9bcda39b56" width="500px">
 
 
 音楽が好きでDJやってます！よろしくお願いします。
@@ -92,7 +93,9 @@ SLAB：http://slab.pw/
 
 
 ### URIU + 山響屋 (from あら酔っと)
-![457169832900297315](https://github.com/GORGE-IN/yamanohi.club/assets/10110956/f93f547b-f68f-4fd2-b31f-1a03ae525569)
+
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/f93f547b-f68f-4fd2-b31f-1a03ae525569" width="500px">
+
 
 
 山響屋:
