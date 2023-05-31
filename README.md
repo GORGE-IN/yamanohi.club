@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/10110956/87446555-6565f080-c634-11ea-9f32-50979be92368.png" width="1200">
+<img src="https://user-images.githubusercontent.com/10110956/87446555-6565f080-c634-11ea-9f32-50979be92368.png" width="100%">
 
 # yamanohi.club 2023
 
