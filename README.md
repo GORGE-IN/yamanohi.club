@@ -33,8 +33,8 @@ DAY1については現在未定であるため、DAY2について以下に記し
 - Indus Bonze (from Hokkaido) - Live　
 - Drastik Adhesive Force (from Tokyo) - Live
 - 三代目DJひょっとこ (from Everywhere) - DJ
-- URIU + 山響屋 (from あら酔っと) - DJ
-- kiimao tong(from ソムタム) - DJ
+- URIU & 山響屋 (あら酔っと) - DJ
+- kiimao tong (ソムタムワナカーン) - DJ
 - SMZY - DJ
 - Kazuki Koga - Live
 - hanali - Live
@@ -124,7 +124,7 @@ SLAB：http://slab.pw/
 民謡とその他（ロックンロール、ヒップホップ、ベースミュージックなど)のマッシュアップDJ。
 
 
-### URIU + 山響屋 (from あら酔っと)
+### URIU & 山響屋 (あら酔っと)
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/f93f547b-f68f-4fd2-b31f-1a03ae525569" width="500px">
 
@@ -138,18 +138,15 @@ SLAB：http://slab.pw/
 
 https://m.youtube.com/watch?v=dkTzjt32c9I
 
-https://instagram.com/yamabikoya?igshid=NTc4MTIwNjQ2YQ==
 
 
 URIU:
 
-盆踊りナイト"あら酔っと"、福岡短編アニメーション映画祭 に参加。山間部で暮らし沿岸部で働き、奇習奇祭終末観光を好んで各地を訪ねます。
+盆踊りナイト"あら酔っと"、福岡短編アニメーション映画祭に参加。山間部で暮らし沿岸部で働き、奇習奇祭終末観光を好んで各地を訪ねます。
 
 https://youtu.be/vcJfw7L574U
 
-https://instagram.com/uriu?igshid=NTc4MTIwNjQ2YQ==
-
-### kiimao tong(from ソムタム)
+### kiimao tong(ソムタムワナカーン)
 To be updated.
 
 ### SMZY
