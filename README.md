@@ -33,7 +33,7 @@ DAY1については現在未定であるため、DAY2について以下に記し
 - Indus Bonze (from Hokkaido) - Live　
 - Drastik Adhesive Force (from Tokyo) - Live
 - 三代目DJひょっとこ (from Everywhere) - DJ
-- URIU & 山響屋 (あら酔っと) - DJ
+- 山響屋 & URIU (あら酔っと) - DJ
 - kiimao tong (ソムタムワナカーン) - DJ
 - SMZY - DJ
 - Kazuki Koga - Live
@@ -124,7 +124,7 @@ SLAB：http://slab.pw/
 民謡とその他（ロックンロール、ヒップホップ、ベースミュージックなど)のマッシュアップDJ。
 
 
-### URIU & 山響屋 (あら酔っと)
+### 山響屋 & URIU (あら酔っと)
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/f93f547b-f68f-4fd2-b31f-1a03ae525569" width="500px">
 
