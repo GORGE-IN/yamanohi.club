@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/10110956/87446555-6565f080-c634-11ea-9f32-50979be92368.png" width="100%">
 
 # yamanohi.club 2023
 
@@ -13,7 +12,7 @@ DAY1については現在未定であるため、DAY2について以下に記し
 
 # 8月12日（土) 福岡・博多Kieth Flack yamanohi.club 2023 「I hear a new mountain」
 
-![349085871_6641221809275933_6553910349661075943_n](https://github.com/GORGE-IN/yamanohi.club/assets/10110956/b9223252-1436-4a31-bf11-003e7ec80598)
+![yamanohi2023](https://github.com/GORGE-IN/yamanohi.club/assets/10110956/84093c04-eda6-4ec3-a1a9-a06844f0ebf7)
 
 
 ## Place
@@ -279,5 +278,8 @@ GORGE PUBLIC LICENCE
 ## Author
 
 GORGE.IN
+
+<img src="https://user-images.githubusercontent.com/10110956/87446555-6565f080-c634-11ea-9f32-50979be92368.png" width="100%">
+
 
 
