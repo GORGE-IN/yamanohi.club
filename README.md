@@ -93,6 +93,9 @@ www.facebook.com/riyomountains
 
 riyomountains@gmail.com
 
+
+
+---
 ### Indus Bonze (from Hokkaido)　
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/738e6824-1238-48aa-aa23-8827bae17797" width="500px">
@@ -109,6 +112,9 @@ https://soundcloud.com/industrialtype3/
 
 https://indusbonze.bandcamp.com/
 
+
+
+---
 ### Drastik Adhesive Force (from Tokyo)
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/ee33a078-6a1d-42df-8f86-688bc00ae109" width="300px">
@@ -128,6 +134,7 @@ SLAB：http://slab.pw/
 
 
 
+---
 ### 三代目DJひょっとこ (from Everywhere)
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/7d293fdc-9a14-4349-8918-7c9bcda39b56" width="500px">
@@ -138,6 +145,8 @@ SLAB：http://slab.pw/
 民謡とその他（ロックンロール、ヒップホップ、ベースミュージックなど)のマッシュアップDJ。
 
 
+
+---
 ### 山響屋 & URIU (あら酔っと)
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/f93f547b-f68f-4fd2-b31f-1a03ae525569" width="500px">
@@ -160,6 +169,9 @@ URIU:
 
 https://youtu.be/vcJfw7L574U
 
+
+
+---
 ### kiimao tong(ソムタムワナカーン)
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/7f675a94-fe55-425a-bf62-cb44da469dab" width="300px">
@@ -183,6 +195,9 @@ https://youtu.be/vcJfw7L574U
 
 Instagram: @kiimao_tong
 
+
+
+---
 ### Kathmandu sound
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/0f083e70-eb37-4c85-b136-e955ee20bf80" width="300px">
@@ -191,6 +206,9 @@ Instagram: @kiimao_tong
 SMZY&JansportからなるGorge unit
 Jansportは現在山籠りの為、SMZYが単独行中。
 
+
+
+---
 ### Kazuki Koga
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/ed7fff5e-7268-4337-a592-172bffc0e527" width="300px">
@@ -217,6 +235,8 @@ twitter : https://twitter.com/KazukiKoga
 instagram : https://www.instagram.com/kazukikoga/
 
 
+
+---
 ### hanali
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/96de5f70-93aa-4b1b-ae57-925ed77ffe43" width="500px">
@@ -232,6 +252,10 @@ https://soundcloud.com/hanali
 
 https://out.gorge.in/album/monolithic-v10-ep
 
+
+
+
+---
 ### yogi
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/3a8bf3ec-4d5c-4dbf-a72c-0f069fc3c633" width="300px">
