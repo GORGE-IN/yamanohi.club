@@ -259,6 +259,10 @@ https://out.gorge.in/album/monolithic-v10-ep
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/3a8bf3ec-4d5c-4dbf-a72c-0f069fc3c633" width="300px">
 
+バックパッカーから始まった彼のキャリアは、現地の音楽を収集するために渡航を繰り返し、ゴルジェのルーツであるインドに2015年から2年間に在住したという。
+
+現在は福岡Kieth Flackを拠点に、タイ及びアジア全域のカルチャーとムーブメントが体感でき、また九州では唯一無二を誇る多国籍感覚パーティとして進化中のSomtam wan ang khaan(ソムタムワナカーン)のクルーとしても活動中。
+
 ## Play Order
 現状のところ、出演順はまだ決定していません。
 
