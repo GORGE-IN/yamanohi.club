@@ -13,6 +13,8 @@ DAY1については現在未定であるため、DAY2について以下に記し
 
 # 8月12日（土) 福岡・博多Kieth Flack yamanohi.club 2023 「I hear a new mountain」
 
+![349085871_6641221809275933_6553910349661075943_n](https://github.com/GORGE-IN/yamanohi.club/assets/10110956/b9223252-1436-4a31-bf11-003e7ec80598)
+
 
 ## Place
 [福岡Kieth Flack](https://kiethflack.net/) \2,500 + 1 Drink
@@ -35,7 +37,7 @@ DAY1については現在未定であるため、DAY2について以下に記し
 - 三代目DJひょっとこ (from Everywhere) - DJ
 - 山響屋 & URIU (あら酔っと) - DJ
 - kiimao tong (ソムタムワナカーン) - DJ
-- SMZY - DJ
+- Kathmandu sound - Live
 - Kazuki Koga - Live
 - hanali - Live
 - yogi - DJ
@@ -93,7 +95,19 @@ riyomountains@gmail.com
 
 ### Indus Bonze (from Hokkaido)　
 
-<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/073b9e70-6667-470e-8a10-a58f24ce3c33" width="300px">
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/738e6824-1238-48aa-aa23-8827bae17797" width="500px">
+
+
+ゴルジェから生まれて、ゴルジェで死ぬ。
+
+北海道の山中からゴルジェを軸にハードコアな太鼓サウンドを世界へ届ける。
+
+今年デビューから10年を迎え更に高みを目指す。
+
+
+https://soundcloud.com/industrialtype3/
+
+https://indusbonze.bandcamp.com/
 
 ### Drastik Adhesive Force (from Tokyo)
 
@@ -147,14 +161,61 @@ URIU:
 https://youtu.be/vcJfw7L574U
 
 ### kiimao tong(ソムタムワナカーン)
-To be updated.
 
-### SMZY
-To be updated.
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/7f675a94-fe55-425a-bf62-cb44da469dab" width="300px">
+
+キーマオ トン
+
+福岡在住
+
+
+キーマオはタイ語で「酔っ払いの意味。
+
+キーマオには、タイ、アジア音楽の文化に「酔いしれる」と言う意味を込めている。
+
+
+また、
+
+自身のDJスタイルを「サヌック・ディスコ」と呼び、
+
+タイ、アジアの現地で楽しく踊る人をみて感動し、再現できたら良いと思いプレイしている。
+
+
+Instagram: @kiimao_tong
+
+### Kathmandu sound
+
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/0f083e70-eb37-4c85-b136-e955ee20bf80" width="300px">
+
+濃いガスの中２つのライトが暗闇を照らす。
+SMZY&JansportからなるGorge unit
+Jansportは現在山籠りの為、SMZYが単独行中。
 
 ### Kazuki Koga
 
-<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/b321cd01-7579-44e2-bc66-7c524db75c9c" width="300px">
+<img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/ed7fff5e-7268-4337-a592-172bffc0e527" width="300px">
+
+Kazuki Kogaは福岡県出身の電子音楽家。
+
+2015年から2018年までモントリオールを拠点に活動し、現在は北九州市を拠点に活動している。
+
+ロッククライミング/登山の電子音楽的解釈として知られているGORGE。
+
+インド/ネパールの山岳地帯で生まれ日本で発展したと伝えられているが、その実体は独自の
+
+暗号と伝説によって曖昧に定義されている。
+
+その目的はロッククライミングの美的・精神的・身体的昇華を伝え、神々の山嶺へと続くルートを開拓することである。
+
+
+soundcloud : https://soundcloud.com/kazuki_koga
+
+bandcamp : https://kazukikoga.bandcamp.com/
+
+twitter : https://twitter.com/KazukiKoga
+
+instagram : https://www.instagram.com/kazukikoga/
+
 
 ### hanali
 
