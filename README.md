@@ -221,6 +221,13 @@ instagram : https://www.instagram.com/kazukikoga/
 
 <img src="https://github.com/GORGE-IN/yamanohi.club/assets/10110956/96de5f70-93aa-4b1b-ae57-925ed77ffe43" width="500px">
 
+Toki Takumiによるソロ・ルーツGorge(ゴルジェ)・プロジェクト。また国内唯一のGorge専門レーベル「GORGE.IN」の運営の中心メンバーの一人。2000年頃より、東京にて音楽活動を開始後、しばらくテント泊縦走、沢登り、フリークライミングなど山に関わる活動に軸を移していたが、タムによる呪術的なリズムワークを特徴とするビート&クライミング・ミュージック「Gorge」の思想とダイナミズムに衝撃を受け、2012年頃よりルーツGorgeスタイルでの音楽活動を開始。そのダイナミックでトリッキーなタム連打サウンドは、日本に「ゴルい」という価値を浸透させるのに大いに貢献した。
+
+GORGE.INを始めTerminal Expsotion、UKのFlamebait、ベルギーのThirdTypeTapesなどよりアルバム・EPを数多くリリース。
+
+2019年に福岡県に移住。現在は音楽活動をインターネットメインに行っており、オフラインはほぼ岩・沢・山の活動を行っている。
+
+
 https://soundcloud.com/hanali
 
 https://out.gorge.in/album/monolithic-v10-ep
