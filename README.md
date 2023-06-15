@@ -36,7 +36,7 @@ DAY1については現在未定であるため、DAY2について以下に記し
 - 三代目DJひょっとこ (from Everywhere) - DJ
 - 山響屋 & URIU (あら酔っと) - DJ
 - kiimao tong (ソムタムワナカーン) - DJ
-- Kathmandu sound - Live
+- Kathmandu sound - DJ
 - Kazuki Koga - Live
 - hanali - Live
 - yogi - DJ
