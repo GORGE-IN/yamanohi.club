@@ -63,7 +63,17 @@ DJs :
 - yogi - DJ
 
 
-出演者は任意のタイミングで増加する可能性があります。
+### Time Table
+- 19:00 yogi (30min)
+- 19:30 山響屋 & URIU (from あら酔っと) (40min)
+- 20:10 kiimao tong (from ソムタム) (40min)
+- 20:50 SMZY (40min)
+- 21:30 Live: Kazuki Koga (30min)
+- 22:00 DJひょっとこ (40min)
+- 22:40 Live: Drastik Adhesive Force (30min)
+- 23:10 狸謡山脈 (45min)
+- 23:55 Live: Indus Bonze (45min)
+- 00:40 Live: hanali (30min) 01:10 END
 
 ## Players
 
