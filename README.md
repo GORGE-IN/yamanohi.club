@@ -5,10 +5,29 @@
 このイベントは、祝祭となる日「山の日」が制定された遥か昔より受け継がれるトラディショナルな祭典または儀式となります。
 
 2023年は以下の日程で2日間に渡り行われます。それぞれ以下に詳細を記述します。
-- DAY1: 8月11日（金) 東京・渋谷OTO yamanohi.club 2023 「GORU-GORU FRIDAYS CLUB」
+- DAY1: 8月11日（金) 東京・渋谷OTO yamanohi.club 2023 GORUGORU FRIDAYS -山の日GORUGORU SP！！-@OTO_SHIBUYA
 - DAY2: 8月12日（土) 福岡・博多Kieth Flack yamanohi.club 2023 「I Hear a new Mountain」
 
-DAY1については現在未定であるため、DAY2について以下に記します。
+# 8月11日（金) 東京・渋谷OTO yamanohi.club 2023 GORUGORU FRIDAYS -山の日GORUGORU SP！！-@OTO_SHIBUYA
+
+[https://twitter.com/OTO_SHIBUYA/status/1686704784966144001] (https://twitter.com/OTO_SHIBUYA/status/16867047849661440010?)
+
+2023.08.11(金祝) 山の日
+18:00 - 23:00
+¥1000(+1drink order)
+
+LIVE :
+hanali
+Drastik Adhesive Force
+
+DJs :
+三代目DJひょっとこ
+HiBiKi MaMeShiBa
+47gw ♡ yumip
+yuna
+NA3
+moge!
+
 
 # 8月12日（土) 福岡・博多Kieth Flack yamanohi.club 2023 「I hear a new mountain」
 
