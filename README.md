@@ -10,22 +10,32 @@
 
 # 8月11日（金) 東京・渋谷OTO yamanohi.club 2023 GORUGORU FRIDAYS -山の日GORUGORU SP！！-@OTO_SHIBUYA
 
-[https://twitter.com/OTO_SHIBUYA/status/1686704784966144001] (https://twitter.com/OTO_SHIBUYA/status/16867047849661440010?)
+[https://twitter.com/OTO_SHIBUYA/status/1686704784966144001](https://twitter.com/OTO_SHIBUYA/status/16867047849661440010?)
 
 2023.08.11(金祝) 山の日
+
 18:00 - 23:00
+
 ¥1000(+1drink order)
 
 LIVE :
+
 hanali
+
 Drastik Adhesive Force
 
 DJs :
+
 三代目DJひょっとこ
+
 HiBiKi MaMeShiBa
+
 47gw ♡ yumip
+
 yuna
+
 NA3
+
 moge!
 
 
