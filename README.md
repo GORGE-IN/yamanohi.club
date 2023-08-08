@@ -19,24 +19,16 @@
 ¥1000(+1drink order)
 
 LIVE :
-
-hanali
-
-Drastik Adhesive Force
+- hanali
+- Drastik Adhesive Force
 
 DJs :
-
-三代目DJひょっとこ
-
-HiBiKi MaMeShiBa
-
-47gw ♡ yumip
-
-yuna
-
-NA3
-
-moge!
+- 三代目DJひょっとこ
+- HiBiKi MaMeShiBa
+- 47gw ♡ yumip
+- yuna
+- NA3
+- moge!
 
 
 # 8月12日（土) 福岡・博多Kieth Flack yamanohi.club 2023 「I hear a new mountain」
