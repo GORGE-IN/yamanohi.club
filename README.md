@@ -7,7 +7,7 @@
 
 
 
-#8月10日（日)　名古屋　薬膳bar SAKAE 
+# 8月10日（日)　名古屋　薬膳bar SAKAE 
 
 Presented by http://GORGE.IN
 2025.8.10(sun) 17:00-5:00
